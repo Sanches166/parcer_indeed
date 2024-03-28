@@ -1,2 +1,2 @@
-# parcer_sbermarket
-This parcer take folow the links from .xlsx file and parce info into output.csv
+# parcer_indeed
+This parcer connect to account on indeed.com and info from candidates.
